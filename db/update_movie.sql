@@ -1,0 +1,1 @@
+UPDATE movies SET description = $2 WHERE movie_id = $1;

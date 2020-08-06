@@ -1,0 +1,1 @@
+DELETE FROM movies WHERE product_id = $1;
